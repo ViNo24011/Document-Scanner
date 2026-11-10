@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+scanned_doc.jpg
+scanned_doc.pdf
